@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645727607 source:c:\users\airsu\desktop\하이브리드\00. codeblocks\vendingmachine\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1646637440 source:c:\vendingmachine\main.c
+	<stdio.h>
+	<stdlib.h>
+
